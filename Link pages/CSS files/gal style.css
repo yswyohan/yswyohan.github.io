@@ -1,0 +1,54 @@
+@charset "utf-8";
+html,body,h3,p,ul,li,img{
+	margin:0;
+	padding:0;
+	}
+	
+article, aside, figure, footer, header, hgroup,
+menu, nav, section { display: block; }
+
+body { color:#999;
+}
+
+.logo{
+	margin-left:540px;
+	width:220px;
+	height:220px;
+	}
+.web{
+	margin-left:300px;
+	margin-bottom:10px;
+	}
+.control{
+	margin-left:200px;
+	margin-bottom:10px;
+	}
+.container{
+	width:700px;
+	margin:30px auto o;
+	right:500px;
+	}
+.gallary{
+	width:1000px;
+	margin:auto;
+	}
+.gallary ul{
+	list-style:none;
+	}
+
+.gallary li{
+	float:left;
+	margin:10px;
+	}
+
+.gallary img{
+	display:block;
+	padding:5px;
+	background:#666;
+	border:1px solid #FFF;
+	box-shadow:1px 1px 2px #000000;
+	}
+.gallary img:hover{
+	border:1px solid #666;
+	}
+	

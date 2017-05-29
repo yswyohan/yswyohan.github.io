@@ -1,0 +1,123 @@
+@import url("animation.css");
+
+body{
+	background-image:url(images/back2.jpg);
+	}
+.tank{
+	width:1355px;
+	height:500px;
+	position:relative;
+	margin:0 auto;
+	background:url(tank.png)top left no-repeat;
+	border-radius:30px;
+	overflow:hidden;
+	top:90px;
+	}
+
+.img-Fishtank {
+	position:absolute;
+	left:-80px;	
+}
+
+.img-leafes1{
+	position:absolute;
+	margin:0 auto;
+	top:0px;
+	left:-66px;
+	z-index:99999999;
+	width:1360px;
+	height:550px;
+}
+.img-leafes2{
+	position:absolute;
+	margin:0 auto;
+	top:-5px;
+	right:0px;
+	z-index:99999999;
+	width:1450px;
+	height:550px;
+}
+.img-bubbles {
+	position:absolute;
+	z-index:10000;
+	-webkit-animation:bubbles 6s linear infinite;
+	-moz-animation:bubbles 6s linear infinite;
+}
+.img-fish01{
+	position:relative;
+	left:1500px;
+	top:0px;
+	z-index:500;
+	-webkit-animation:anifish1 12s 5s linear infinite;
+	-moz-animation:anifish1 12s 5s linear infinite;
+	}
+.img-fish02{
+	position:absolute;
+	left:900px;
+	top:100px;
+	z-index:200;
+	-webkit-animation:anifish2 8s linear infinite;
+	-moz-animation:anifish2 8s linear infinite;
+	}
+
+.img-fish03{
+	position:relative;
+	left:1200px;
+	top:-40px;
+	width:40%;
+	height:80%;
+	z-index:100;
+	-webkit-animation:anifish1 15s 2s linear infinite;
+	-moz-animation:anifish1 15s 2s linear infinite;
+	}
+.img-fish04{
+	position:absolute;
+	left:-500px;
+	top:50px;
+	z-index:500;
+	-webkit-animation:anifish2 8s 1s linear infinite;
+	-moz-animation:anifish2 8s 1s linear infinite;
+	}
+.img-fish05{
+	position:absolute;
+	left:-340px;
+	top:50px;
+	z-index:200;
+	-webkit-animation:anifish2 8s 3s linear infinite;
+	-moz-animation:anifish2 8s 3s linear infinite;
+	}
+.img-fish06{
+	position:absolute;
+	left:-440px;
+	top:250px;
+	z-index:20;
+	-webkit-animation:anifish2 8s 4s linear infinite;
+	-moz-animation:anifish2 8s 4s linear infinite;
+	}
+.img-fish07{
+	position:relative;
+	left:400px;
+	top:-20px;
+	z-index:2;
+	-webkit-animation:anifish1 8s 3s linear infinite;
+	-moz-animation:anifish1 8s 3s linear infinite;
+}
+.img-fish08{
+	position:relative;
+	left:1200px;
+	top:-200px;
+	z-index:2;
+	-webkit-animation:anifish1 15s 15s linear infinite;
+	-moz-animation:anifish1 15s 15s linear infinite;
+}
+
+.img-water{
+	position:absolute;
+	left:0px;
+	z-index:9999999999999999999;
+	}
+.img-ycreations{
+	position:absolute;
+	top:-5px;
+	right:650px;
+	}

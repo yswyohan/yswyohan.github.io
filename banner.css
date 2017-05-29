@@ -1,0 +1,162 @@
+@import url(animation.css);
+body{
+	background:url(banner/img/new%20body..jpg)top left no-repeat;
+	margin:o;
+	}
+.slie{
+	position:relative;
+	z-index:5000;
+	}
+.tst{
+	margin:0px;
+	position:relative;
+	background:url(banner/img/Background.jpg);	
+	width: 900px;
+    height: 387px;
+	overflow:hidden;
+	}
+.cntc{
+	width: 1800px;
+    height: 800px;
+	}
+.iconn{
+	position:absolute;
+	top:250px;
+	left:50px;
+    width: 900px;
+    height: 900px;
+	margin:0 auto;
+}
+.thum {
+    float: Left;
+    width: 130px;
+    height: 130px;
+    margin: 16px;
+}
+.thum:hover
+{
+	opacity: 0.50;
+	size:portrait;
+	}
+.handc{
+	float:left;
+	width: 130px;
+    height: 130px;
+	margin-left:530px;
+	position:relative;
+	top:-180px;
+	right:475px;
+	}
+.handc:hover
+{
+	opacity: 0.50;
+	}
+
+.background{
+	width:900px;
+	height:800px;
+	background:url(banner/img/background.jpg)top left no-repeat;
+	position:absolute;
+	z-index:-500px;
+	overflow:hidden;
+	}
+.banner{
+	width:900px;
+	height:280px;
+	position:relative;
+	margin:0 auto;
+	background:url(banner/img/banner-bg.jpg)top left no-repeat;
+	border-radius:30px;
+	overflow:hidden;
+	}
+.banner h3{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:40px;
+	bottom:220px;
+	}
+.banner p{
+	color:#939;
+	font-family:Tahoma, Geneva, sans-serif;
+	}
+[class^="txt"],[class^="img"]{
+	position:absolute;
+	margin:0;
+	}
+[class^="txt"]{
+	z-index:200px;
+	}
+
+.img01{
+	bottom:100px;
+	left:70px;
+	top:100px;
+	z-index:300px;
+	-webkit-animation: image-on 2s ease-out forwards;
+	-moz-animation: image-on 2s ease-out forwards;
+	}
+.img02{
+	left:900px;
+	bottom:10px;
+	z-index:-300px;
+	width:65%;
+	height:55%;
+	-webkit-animation: image2-on 1s ease 1s forwards;
+	-moz-animation: image2-on 1s ease 1s forwards;
+	}
+
+.img-name{
+	right:83px;
+	top:225px;
+	width:65%;
+	height:33%;
+	-webkit-animation: ani-on 1s ease 1s forwards;
+	-moz-animation: ani-on 1s ease 1s forwards;
+	}
+	
+.txt-heading01{
+	color:#FFF;
+	left:-500px;
+	width:900px;
+	-webkit-animation:heading01-on 1s forwards,heading01-loop 5s ease 1s infinite;
+	-moz-animation:heading01-on 1s forwards,heading01-loop 5s ease 1s infinite;
+	
+	}
+.txt-heading02{
+	right:140px;
+	}
+.txt01,.txt02{
+	font-size:45px;
+	}
+.txt01{
+	left:400px;
+	top:160px;
+	}
+.txt02{
+	left:500px;
+	top:230px;
+	}
+.img-snow01{
+	-webkit-animation: snowfall 5s linear infinite;
+	-moz-animation: snowfall 5s linear infinite;
+	z-index:100px;
+	}
+.img-snow02{
+	-webkit-animation: snowfall 8s linear infinite;
+	-moz-animation: snowfall 8s linear infinite;
+	z-index:100px;
+	}
+.img-animate{
+	position:relative;
+	top:100px;
+	left:500px;
+	}	
+	
+.social{
+	left:1070px;
+	bottom:100px;
+	position:absolute;
+	width:2px;
+	height:2px;
+	z-index:9999999999px;
+	}
+	

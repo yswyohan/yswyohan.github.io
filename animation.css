@@ -1,0 +1,196 @@
+@-webkit-keyframes ani{
+	 0%{righ:400px;}
+	 100%{left:230px;}
+	}
+@-moz-keyframes ani{
+	 0%{righ:400px;}
+	 100%{left:230px;}
+	}
+@-o-keyframes ani{
+	 0%{righ:400px;}
+	 100%{left:230px;}
+	}
+@keyframes ani{
+	 0%{righ:400px;}
+	 100%{left:230px;}
+	}
+
+
+
+
+
+
+@-webkit-keyframes image2-loop{
+	 0%{left:100px;}
+	 42%{left:400px;}
+	 46%{left:920px;}
+	 91.99%{left:920px;}
+	 92%{left:900px;}
+	 96%{left:400px;}
+	 100%{left:400px;}
+	}
+
+@-moz-keyframes image2-loop{
+	 0%{left:100px;}
+	 42%{left:400px;}
+	 46%{left:920px;}
+	 91.99%{left:920px;}
+	 92%{left:900px;}
+	 96%{left:400px;}
+	 100%{left:400px;}
+	}
+@-o-keyframes image2-loop{
+	 0%{left:100px;}
+	 42%{left:400px;}
+	 46%{left:920px;}
+	 91.99%{left:920px;}
+	 92%{left:900px;}
+	 96%{left:400px;}
+	 100%{left:400px;}
+	}
+@keyframes image2-loop{
+	 0%{left:100px;}
+	 42%{left:400px;}
+	 46%{left:920px;}
+	 91.99%{left:920px;}
+	 92%{left:900px;}
+	 96%{left:400px;}
+	 100%{left:400px;}
+	}
+
+
+
+
+@-webkit-keyframes image2-on{
+	 0%{righ:400px;}
+	 100%{left:230px;}
+	}
+@-moz-keyframes image2-on{
+	 0%{righ:400px;}
+	 100%{left:230px;}
+	}
+@-o-keyframes image2-on{
+	 0%{righ:400px;}
+	 100%{left:230px;}
+	}
+@keyframes image2-on{
+	 0%{righ:400px;}
+	 100%{left:230px;}
+	}
+
+@-webkit-keyframes heading01-loop{
+	 0%{left:300px;}
+	 42%{left:300px;}
+	 46%{left:920px;}
+	 91.99%{left:920px;}
+	 92%{left:-500px;}
+	 96%{left:300px;}
+	 100%{left:300px;}
+	}
+@-moz-keyframes heading01-loop{
+	 0%{left:300px;}
+	 42%{left:300px;}
+	 46%{left:920px;}
+	 91.99%{left:920px;}
+	 92%{left:-500px;}
+	 96%{left:300px;}
+	 100%{left:300px;}
+	}
+@-o-keyframes heading01-loop{
+	 0%{left:300px;}
+	 42%{left:300px;}
+	 46%{left:920px;}
+	 91.99%{left:920px;}
+	 92%{left:-500px;}
+	 96%{left:300px;}
+	 100%{left:300px;}
+	}
+@keyframes heading01-loop{
+	 0%{left:300px;}
+	 42%{left:300px;}
+	 46%{left:920px;}
+	 91.99%{left:920px;}
+	 92%{left:-500px;}
+	 96%{left:300px;}
+	 100%{left:300px;}
+	}
+@-webkit-keyframes heading01-on{
+	 0%{left:-500px;}
+	 100%{left:300px;}
+	}
+@-moz-keyframes heading01-on{
+	 0%{left:-500px;}
+	 100%{left:300px;}
+	}
+@-o-keyframes heading01-on{
+	 0%{left:-500px;}
+	 100%{left:300px;}
+	}
+@keyframes heading01-on{
+	 0%{left:-500px;}
+	 100%{left:300px;}
+	}
+
+
+
+
+/*------snowfall---------*/
+@-webkit-keyframes snowfall{
+	 0%{bottom:0px;}
+	 100%{bottom:-300px;}
+	}
+@-moz-keyframes snowfall{
+	 0%{bottom:0px;}
+	 100%{bottom:-300px;}
+	}
+@-o-keyframes snowfall{	 
+	 0%{bottom:0px;}
+	 100%{bottom:-300px;}
+	}
+@keyframes snowfall{
+	 0%{bottom:0px;}
+	 100%{bottom:-300px;}
+	 }
+	
+
+
+
+
+
+@-webkit-keyframes imageloop-on{
+	0%{top:-200px;}
+	50%{top:200px;}
+	100%{top:500px;}
+	}
+@-moz-keyframes imageloop-on{
+	0%{top:-200px;}
+	50%{top:200px;}
+	100%{top:500px;}
+	}
+@-o-keyframes imageloop-on{
+	0%{top:-200px;}
+	50%{top:200px;}
+	100%{top:500px;}
+	}
+@keyframes imageloop-on{
+	0%{top:-200px;}
+	50%{top:200px;}
+	100%{top:500px;}
+	}
+
+@-webkit-keyframes image-on{
+	0%{top:-200px;}
+	100%{top:130px;}
+	}
+@-moz-keyframes image-on{
+	0%{top:-200px;}
+	100%{top:130px;}
+	}
+@-o-keyframes image-on{
+	0%{top:-200px;}
+	100%{top:130px;}
+	}
+@keyframes image-on{
+	0%{top:-200px;}
+	100%{top:130px;}
+	}
